@@ -1,0 +1,40 @@
+
+
+
+.body {
+    background-color: wheat;
+}
+
+.inlandtravel {
+    background-color: teal;
+    color: white;
+    text-align: center;
+    height: 310px;
+    padding-top: 60px;
+    margin-top: 10px;
+    border-radius: 20px;
+
+    
+}
+
+.abroadtravel{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    height: 310px;
+    padding-top: 60px;
+    margin-top: 10px;
+    border-radius: 20px;
+  
+}
+
+.first :hover {
+    transform: translateY(20px);
+    box-shadow: 0 0 20 0 violet;
+}
+
+.st1-go{
+    text-decoration: none !important;
+    color: white !important;
+}
+
