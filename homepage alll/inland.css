@@ -5,23 +5,6 @@
    
   }
 
-  @media screen and (max-width: 750px) {
-    .card{
-        display: flex !important;
-        flex-direction: column !important;
-        width: 600px !important;
-    }  
-  }
-
-
-@media screen and (max-width: 750px) {
-    .card{
-        display: flex !important;
-        flex-direction: column !important;
-        width: 600px !important;
-    }  
-  }
-
 
 
 /* navigation bar start */
