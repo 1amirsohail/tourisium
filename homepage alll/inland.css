@@ -1,5 +1,22 @@
+@media screen and (max-width: 570px) {
+    .middle-card{
+        margin-top: 40px; 
+    }
+   
+  }
+
+  @media screen and (max-width: 750px) {
+    .card{
+        display: flex !important;
+        flex-direction: column !important;
+        width: 600px !important;
+    }
+   
+  }
+
 
 /* navigation bar start */
+
 
 .nav-link:hover{
     color:skyblue !important;
